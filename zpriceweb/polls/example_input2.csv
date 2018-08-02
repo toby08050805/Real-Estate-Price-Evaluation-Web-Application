@@ -1,0 +1,4 @@
+taxamount,calculatedfinishedsquarefeet,structuretaxvaluedollarcnt,latitude,landtaxvaluedollarcnt,lotsizesquarefeet,finishedsquarefeet12,longitude,taxvaluedollarcnt,yearbuilt
+6735.879883,1684,122754,34280992,237416,7528,1684,-118488536,360170,1959
+V,V,X,V,X,V,V,V,X,V
+float,int,int,int,,int,int,int,int,int
