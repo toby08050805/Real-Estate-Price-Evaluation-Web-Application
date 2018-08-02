@@ -1,0 +1,10 @@
+Real-Estate-Price-Evaluation
+Django in Python Real-Estate Price Evaluation Web-Application 
+• Created a web site using Html, CSS, JavaScript and developed model(Xgboost) can predict real-estate prices by Python 
+• Applied Django framework to connect prediction models and web site
+• Deployed the service to Amazon Web Services
+First, I retrieved the house feature data from Zillow’s website through their API.
+The data is in an XML format so I needed to extract-transform and loaded it to the database. 
+After that, I created a web application by using Python through Django, CSS, HTML5 and SQLite packages. 
+The web application can connect to the model which was created by XGboost to give users a predictable price of real-estate in California.
+I practiced data analytics skills from the front end of the application to the back end to solve a real-world problem.
